@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">obesity</string>
+    <string name="Obesidad">obesidad</string>
+    <string name="el_peso_es_el_adecuado">En Buen peso</string>
+    <string name="sobrepeso">sobrepeso</string>
+</resources>
